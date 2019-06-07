@@ -1,0 +1,9 @@
+body {
+    background-image: url("/fifa.jpg");
+    padding: 5% 20% 15% 15%;
+}
+
+.sub_pad {
+    margin-top: 1%;
+    margin-bottom: 20%;
+}
